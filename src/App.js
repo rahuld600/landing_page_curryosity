@@ -26,7 +26,7 @@ function App() {
           style={{ fontFamily: "'Montserrat', sans-serif" }}
         >
           <h1 class="heading">The Adventure Begins Soon..</h1>
-          <p class="sub-heading">watch out the space begins for more</p>
+          <p class="sub-heading">watch out this space for more</p>
         </div>
       </div>
       <div class="cloveimg-container">
