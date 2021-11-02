@@ -21,7 +21,10 @@ function App() {
     >
       <div class="logontext-container d-flex flex-column align-items-center">
         <img src={png_small} alt="" />
-        <div class="text-center">
+        <div
+          class="text-center"
+          style={{ fontFamily: "'Montserrat', sans-serif" }}
+        >
           <h1 class="heading">The Adventure Begins Soon..</h1>
           <p class="sub-heading">watch out the space begins for more</p>
         </div>
